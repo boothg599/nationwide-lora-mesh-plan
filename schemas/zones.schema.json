@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "zones.geojson schema",
+  "type": "object",
+  "required": [
+    "type",
+    "features"
+  ],
+  "properties": {
+    "type": {
+      "const": "FeatureCollection"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "type",
+          "geometry",
+          "properties"
+        ],
+        "properties": {
+          "type": {
+            "const": "Feature"
+          },
+          "geometry": {
+            "type": "object",
+            "required": [
+              "type",
+              "coordinates"
+            ],
+            "properties": {
+              "type": {
+                "enum": [
+                  "Polygon",
+                  "MultiPolygon"
+                ]
+              },
+              "coordinates": {}
+            },
+            "additionalProperties": true
+          },
+          "properties": {
+            "type": "object",
+            "required": [
+              "zone_id",
+              "zone_name",
+              "zone_class",
+              "tierA_spacing_mi_min",
+              "tierA_spacing_mi_max",
+              "tierB_cell_radius_mi",
+              "tierB_spacing_mi_min",
+              "tierB_spacing_mi_max",
+              "tierC_spacing_mi_min",
+              "tierC_spacing_mi_max"
+            ],
+            "properties": {
+              "zone_id": {
+                "type": "string",
+                "pattern": "^Z_[A-Z0-9_]+$"
+              },
+              "zone_name": {
+                "type": "string"
+              },
+              "zone_class": {
+                "type": "string",
+                "enum": [
+                  "WEST_HIGH_RELIEF",
+                  "CENTRAL_LOW_RELIEF",
+                  "EAST_RIDGE_METRO"
+                ]
+              },
+              "tierA_spacing_mi_min": {
+                "type": "number",
+                "minimum": 1
+              },
+              "tierA_spacing_mi_max": {
+                "type": "number",
+                "minimum": 1
+              },
+              "tierB_cell_radius_mi": {
+                "type": "number",
+                "minimum": 1
+              },
+              "tierB_spacing_mi_min": {
+                "type": "number",
+                "minimum": 1
+              },
+              "tierB_spacing_mi_max": {
+                "type": "number",
+                "minimum": 1
+              },
+              "tierC_spacing_mi_min": {
+                "type": "number",
+                "minimum": 1
+              },
+              "tierC_spacing_mi_max": {
+                "type": "number",
+                "minimum": 1
+              },
+              "notes": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

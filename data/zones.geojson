@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "zone_name": "Western High Relief",
+        "zone_class": "WEST_HIGH_RELIEF",
+        "tierA_spacing_mi_min": 80,
+        "tierA_spacing_mi_max": 150,
+        "tierB_cell_radius_mi": 70,
+        "tierB_spacing_mi_min": 35,
+        "tierB_spacing_mi_max": 60,
+        "tierC_spacing_mi_min": 5,
+        "tierC_spacing_mi_max": 15,
+        "notes": "Peaks enable long links; severe shadowing in valleys."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "zone_name": "Central Low Relief",
+        "zone_class": "CENTRAL_LOW_RELIEF",
+        "tierA_spacing_mi_min": 150,
+        "tierA_spacing_mi_max": 250,
+        "tierB_cell_radius_mi": 50,
+        "tierB_spacing_mi_min": 25,
+        "tierB_spacing_mi_max": 60,
+        "tierC_spacing_mi_min": 5,
+        "tierC_spacing_mi_max": 15,
+        "notes": "Height mainly from structures; spacing limited by tower availability."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "zone_name": "Eastern Ridge-and-Valley + Dense Metro",
+        "zone_class": "EAST_RIDGE_METRO",
+        "tierA_spacing_mi_min": 30,
+        "tierA_spacing_mi_max": 80,
+        "tierB_cell_radius_mi": 35,
+        "tierB_spacing_mi_min": 25,
+        "tierB_spacing_mi_max": 50,
+        "tierC_spacing_mi_min": 3,
+        "tierC_spacing_mi_max": 10,
+        "notes": "Ridge shadowing and clutter increase density requirements."
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "sites.geojson schema",
+  "type": "object",
+  "required": [
+    "type",
+    "features"
+  ],
+  "properties": {
+    "type": {
+      "const": "FeatureCollection"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "type",
+          "geometry",
+          "properties"
+        ],
+        "properties": {
+          "type": {
+            "const": "Feature"
+          },
+          "geometry": {
+            "type": "object",
+            "required": [
+              "type",
+              "coordinates"
+            ],
+            "properties": {
+              "type": {
+                "enum": [
+                  "Point",
+                  "MultiPoint"
+                ]
+              },
+              "coordinates": {}
+            },
+            "additionalProperties": true
+          },
+          "properties": {
+            "type": "object",
+            "required": [
+              "site_id",
+              "tier",
+              "site_name",
+              "status",
+              "zone_id",
+              "site_class",
+              "access_class",
+              "power_class",
+              "risk_lightning"
+            ],
+            "properties": {
+              "site_id": {
+                "type": "string",
+                "pattern": "^S_[ABC]_[0-9]{4,}$"
+              },
+              "tier": {
+                "type": "string",
+                "enum": [
+                  "A",
+                  "B",
+                  "C"
+                ]
+              },
+              "site_name": {
+                "type": "string"
+              },
+              "status": {
+                "type": "string",
+                "enum": [
+                  "CANDIDATE",
+                  "PROPOSED",
+                  "ACTIVE",
+                  "RETIRED"
+                ]
+              },
+              "zone_id": {
+                "type": "string",
+                "pattern": "^Z_[A-Z0-9_]+$"
+              },
+              "corridor_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "cell_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "site_class": {
+                "type": "string",
+                "enum": [
+                  "PEAK",
+                  "RIDGE",
+                  "PASS",
+                  "TOWER",
+                  "WATER_TANK",
+                  "ROOFTOP",
+                  "HILL",
+                  "OTHER"
+                ]
+              },
+              "elev_m": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "haat_m": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "structure_height_m": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "access_class": {
+                "type": "string",
+                "enum": [
+                  "EASY",
+                  "MODERATE",
+                  "HARD",
+                  "RESTRICTED"
+                ]
+              },
+              "power_class": {
+                "type": "string",
+                "enum": [
+                  "SOLAR",
+                  "GRID",
+                  "HYBRID",
+                  "UNKNOWN"
+                ]
+              },
+              "risk_lightning": {
+                "type": "string",
+                "enum": [
+                  "LOW",
+                  "MED",
+                  "HIGH",
+                  "UNKNOWN"
+                ]
+              },
+              "neighbor_ids": {
+                "type": [
+                  "array",
+                  "null"
+                ],
+                "items": {
+                  "type": "string"
+                }
+              },
+              "assumed_link_mi_prev": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "assumed_link_mi_next": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "notes": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I5_PROXY",
+        "corridor_name": "West Coast spine (I-5 proxy)",
+        "corridor_class": "COASTAL_SPINE",
+        "priority": 1,
+        "tierA_target_sites_min": 8,
+        "tierA_target_sites_max": 14,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I15_PROXY",
+        "corridor_name": "Intermountain north\u2013south (I-15 proxy)",
+        "corridor_class": "NORTH_SOUTH",
+        "priority": 2,
+        "tierA_target_sites_min": 6,
+        "tierA_target_sites_max": 10,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I25_PROXY",
+        "corridor_name": "Rockies north\u2013south (I-25 proxy)",
+        "corridor_class": "NORTH_SOUTH",
+        "priority": 2,
+        "tierA_target_sites_min": 6,
+        "tierA_target_sites_max": 10,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I10_PROXY",
+        "corridor_name": "Southern transcon (I-10 proxy)",
+        "corridor_class": "TRANS_CON",
+        "priority": 1,
+        "tierA_target_sites_min": 10,
+        "tierA_target_sites_max": 16,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I40_PROXY",
+        "corridor_name": "South-central transcon (I-40 proxy)",
+        "corridor_class": "TRANS_CON",
+        "priority": 1,
+        "tierA_target_sites_min": 8,
+        "tierA_target_sites_max": 14,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I70_PROXY",
+        "corridor_name": "Central transcon (I-70 proxy)",
+        "corridor_class": "TRANS_CON",
+        "priority": 2,
+        "tierA_target_sites_min": 7,
+        "tierA_target_sites_max": 12,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I80_PROXY",
+        "corridor_name": "Northern transcon (I-80 proxy)",
+        "corridor_class": "TRANS_CON",
+        "priority": 2,
+        "tierA_target_sites_min": 7,
+        "tierA_target_sites_max": 12,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_I95_PROXY",
+        "corridor_name": "East Coast spine (I-95 proxy)",
+        "corridor_class": "COASTAL_SPINE",
+        "priority": 1,
+        "tierA_target_sites_min": 9,
+        "tierA_target_sites_max": 15,
+        "notes": "Planning proxy only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "corridor_name": "Great Lakes ring (regional continuity)",
+        "corridor_class": "RING",
+        "priority": 3,
+        "tierA_target_sites_min": 6,
+        "tierA_target_sites_max": 10,
+        "notes": "Regional continuity."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": []
+      },
+      "properties": {
+        "corridor_id": "C_GULF_RING",
+        "corridor_name": "Gulf ring (regional continuity)",
+        "corridor_class": "RING",
+        "priority": 3,
+        "tierA_target_sites_min": 6,
+        "tierA_target_sites_max": 10,
+        "notes": "Regional continuity."
+      }
+    }
+  ]
+}

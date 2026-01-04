@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "hex_cells.geojson schema",
+  "type": "object",
+  "required": [
+    "type",
+    "features"
+  ],
+  "properties": {
+    "type": {
+      "const": "FeatureCollection"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "type",
+          "geometry",
+          "properties"
+        ],
+        "properties": {
+          "type": {
+            "const": "Feature"
+          },
+          "geometry": {
+            "type": "object",
+            "required": [
+              "type",
+              "coordinates"
+            ],
+            "properties": {
+              "type": {
+                "enum": [
+                  "Polygon",
+                  "MultiPolygon"
+                ]
+              },
+              "coordinates": {}
+            },
+            "additionalProperties": true
+          },
+          "properties": {
+            "type": "object",
+            "required": [
+              "cell_id",
+              "zone_id",
+              "cell_radius_mi",
+              "elev_adv_avail",
+              "tall_struct_avail",
+              "clutter_high",
+              "backbone_los_likely",
+              "pop_weight",
+              "critical_weight"
+            ],
+            "properties": {
+              "cell_id": {
+                "type": "string",
+                "pattern": "^H_[A-Za-z0-9]+$"
+              },
+              "zone_id": {
+                "type": "string",
+                "pattern": "^Z_[A-Z0-9_]+$"
+              },
+              "cell_radius_mi": {
+                "type": "number",
+                "minimum": 1
+              },
+              "elev_adv_avail": {
+                "type": "integer",
+                "enum": [
+                  0,
+                  1
+                ]
+              },
+              "tall_struct_avail": {
+                "type": "integer",
+                "enum": [
+                  0,
+                  1
+                ]
+              },
+              "clutter_high": {
+                "type": "integer",
+                "enum": [
+                  0,
+                  1
+                ]
+              },
+              "backbone_los_likely": {
+                "type": "integer",
+                "enum": [
+                  0,
+                  1
+                ]
+              },
+              "pop_weight": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "critical_weight": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "confidence_score": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 4
+              },
+              "confidence_class": {
+                "type": "string",
+                "enum": [
+                  "HIGH",
+                  "MED",
+                  "LOW"
+                ]
+              },
+              "tierB_sites_required": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
+              },
+              "tierB_alternate_required": {
+                "type": "integer",
+                "enum": [
+                  0,
+                  1
+                ]
+              },
+              "tierC_demand_class": {
+                "type": "string",
+                "enum": [
+                  "HIGH",
+                  "MED",
+                  "LOW"
+                ]
+              },
+              "priority_score": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 2
+              },
+              "notes": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}
