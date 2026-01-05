@@ -3,10 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I5_PROXY",
         "corridor_name": "West Coast spine (I-5 proxy)",
@@ -15,46 +11,113 @@
         "tierA_target_sites_min": 8,
         "tierA_target_sites_max": 14,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.1121401902779,
+            32.571200108040514
+          ],
+          [
+            -118.24140925280068,
+            34.04826788468209
+          ],
+          [
+            -121.41243680137151,
+            37.680261408537405
+          ],
+          [
+            -122.70872251157269,
+            45.55101148615722
+          ],
+          [
+            -122.38058424535518,
+            47.60112877895588
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I15_PROXY",
-        "corridor_name": "Intermountain north\u2013south (I-15 proxy)",
+        "corridor_name": "Intermountain north–south (I-15 proxy)",
         "corridor_class": "NORTH_SOUTH",
         "priority": 2,
         "tierA_target_sites_min": 6,
         "tierA_target_sites_max": 10,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.15955342612023,
+            32.73232918362123
+          ],
+          [
+            -115.72574726951294,
+            32.86703200204079
+          ],
+          [
+            -115.16148655296227,
+            36.028532216789074
+          ],
+          [
+            -111.87677079888533,
+            40.72579909936397
+          ],
+          [
+            -112.64607139910416,
+            46.339787379943516
+          ],
+          [
+            -117.07146250950866,
+            47.89739001310514
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I25_PROXY",
-        "corridor_name": "Rockies north\u2013south (I-25 proxy)",
+        "corridor_name": "Rockies north–south (I-25 proxy)",
         "corridor_class": "NORTH_SOUTH",
         "priority": 2,
         "tierA_target_sites_min": 6,
         "tierA_target_sites_max": 10,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -106.37193044927069,
+            31.85208203028742
+          ],
+          [
+            -106.5552261378102,
+            35.221043096152414
+          ],
+          [
+            -105.90251910668202,
+            37.49507319008
+          ],
+          [
+            -104.78159319409905,
+            41.82160134489979
+          ],
+          [
+            -108.06823314366366,
+            45.804285595696584
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I10_PROXY",
         "corridor_name": "Southern transcon (I-10 proxy)",
@@ -63,14 +126,47 @@
         "tierA_target_sites_min": 10,
         "tierA_target_sites_max": 16,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.17783086128603,
+            32.739678494843744
+          ],
+          [
+            -112.02687715796331,
+            33.42148319185864
+          ],
+          [
+            -110.96854230656024,
+            32.15265340043074
+          ],
+          [
+            -106.38089930643307,
+            31.923950641711855
+          ],
+          [
+            -98.19541553313465,
+            29.56651374750693
+          ],
+          [
+            -90.20979432986829,
+            30.019268175436437
+          ],
+          [
+            -87.8281072918834,
+            30.739245862348668
+          ],
+          [
+            -81.65435740328947,
+            30.28996793558025
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I40_PROXY",
         "corridor_name": "South-central transcon (I-40 proxy)",
@@ -79,14 +175,47 @@
         "tierA_target_sites_min": 8,
         "tierA_target_sites_max": 14,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -118.2552970521667,
+            33.960829627953885
+          ],
+          [
+            -111.65811619036981,
+            35.19949467618585
+          ],
+          [
+            -106.70167832022778,
+            35.16194423627705
+          ],
+          [
+            -97.4655342527699,
+            35.482329652970506
+          ],
+          [
+            -90.03569576245656,
+            35.16529659090658
+          ],
+          [
+            -86.74362714197649,
+            36.13010236123449
+          ],
+          [
+            -83.850922182989,
+            35.990491377818856
+          ],
+          [
+            -78.62679637367862,
+            35.83313734291504
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I70_PROXY",
         "corridor_name": "Central transcon (I-70 proxy)",
@@ -95,14 +224,39 @@
         "tierA_target_sites_min": 7,
         "tierA_target_sites_max": 12,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -112.2500112032498,
+            38.535620968530594
+          ],
+          [
+            -104.99461998541791,
+            39.76315531565544
+          ],
+          [
+            -97.61074181574033,
+            38.779414674374976
+          ],
+          [
+            -82.73215499427907,
+            38.002145084174884
+          ],
+          [
+            -79.97843474479052,
+            39.62174832288656
+          ],
+          [
+            -77.45338109859192,
+            39.55254849063326
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I80_PROXY",
         "corridor_name": "Northern transcon (I-80 proxy)",
@@ -111,14 +265,47 @@
         "tierA_target_sites_min": 7,
         "tierA_target_sites_max": 12,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -122.33364404357276,
+            38.11795292365764
+          ],
+          [
+            -119.93875312886186,
+            39.30535231985445
+          ],
+          [
+            -111.99079470741214,
+            40.90180518054444
+          ],
+          [
+            -95.98622719985264,
+            41.19890748064816
+          ],
+          [
+            -91.7947432143956,
+            41.71781327423042
+          ],
+          [
+            -89.01880787806503,
+            40.57110688850665
+          ],
+          [
+            -81.89796975430048,
+            40.86806260185011
+          ],
+          [
+            -74.33532759063394,
+            40.661167099885404
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_I95_PROXY",
         "corridor_name": "East Coast spine (I-95 proxy)",
@@ -127,14 +314,55 @@
         "tierA_target_sites_min": 9,
         "tierA_target_sites_max": 15,
         "notes": "Planning proxy only."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -80.38152551519346,
+            25.825044355214672
+          ],
+          [
+            -81.87749137490118,
+            30.37752664046168
+          ],
+          [
+            -81.36166137599848,
+            32.17480310558149
+          ],
+          [
+            -80.03978783337408,
+            32.868006494114184
+          ],
+          [
+            -78.28454127003171,
+            35.82721438590468
+          ],
+          [
+            -76.99542177014997,
+            38.905159149112166
+          ],
+          [
+            -75.24177356563196,
+            39.98705183899091
+          ],
+          [
+            -74.05411779005036,
+            40.77864451785288
+          ],
+          [
+            -72.68089295933555,
+            41.6145594639454
+          ],
+          [
+            -71.15921925603315,
+            42.43659855552821
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_GREAT_LAKES_RING",
         "corridor_name": "Great Lakes ring (regional continuity)",
@@ -143,14 +371,43 @@
         "tierA_target_sites_min": 6,
         "tierA_target_sites_max": 10,
         "notes": "Regional continuity."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -89.89388993874468,
+            44.83732230171864
+          ],
+          [
+            -88.21491240978106,
+            41.56836561401792
+          ],
+          [
+            -81.54030754413753,
+            41.331589213060454
+          ],
+          [
+            -75.84462884770822,
+            43.30825796718244
+          ],
+          [
+            -83.9767784319794,
+            42.89617635305277
+          ],
+          [
+            -84.75615846432576,
+            46.225726872755814
+          ],
+          [
+            -92.21317637507138,
+            46.64694751632871
+          ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": []
-      },
       "properties": {
         "corridor_id": "C_GULF_RING",
         "corridor_name": "Gulf ring (regional continuity)",
@@ -159,6 +416,117 @@
         "tierA_target_sites_min": 6,
         "tierA_target_sites_max": 10,
         "notes": "Regional continuity."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -97.89847492440948,
+            28.217334599535164
+          ],
+          [
+            -94.09073935698795,
+            30.26028408120891
+          ],
+          [
+            -90.97948717544337,
+            29.8458023826646
+          ],
+          [
+            -89.78769706363092,
+            30.39751087079673
+          ],
+          [
+            -88.20149679788538,
+            30.935067639136236
+          ],
+          [
+            -82.87098314871413,
+            30.163837501609592
+          ],
+          [
+            -82.15252958756601,
+            28.144357473256107
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "corridor_name": "Midwest north–south (regional continuity)",
+        "corridor_class": "NORTH_SOUTH",
+        "priority": 3,
+        "tierA_target_sites_min": 6,
+        "tierA_target_sites_max": 10,
+        "notes": "Regional continuity."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -99.45699749490663,
+            27.98918939772176
+          ],
+          [
+            -96.73588140612063,
+            32.437553476764194
+          ],
+          [
+            -97.47044968781773,
+            38.8500845437747
+          ],
+          [
+            -96.04023987212818,
+            41.473726168317825
+          ],
+          [
+            -99.6248110191783,
+            43.94698070916614
+          ],
+          [
+            -100.78961117993549,
+            46.90297110056008
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "corridor_name": "Mississippi north–south (regional continuity)",
+        "corridor_class": "NORTH_SOUTH",
+        "priority": 3,
+        "tierA_target_sites_min": 6,
+        "tierA_target_sites_max": 10,
+        "notes": "Regional continuity."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -92.08552269623522,
+            30.333268918429283
+          ],
+          [
+            -91.00963464673595,
+            32.85378452085803
+          ],
+          [
+            -89.34499002456938,
+            36.653730998953364
+          ],
+          [
+            -84.98155869253581,
+            40.97260458721004
+          ],
+          [
+            -84.3944350447788,
+            44.11345730689976
+          ]
+        ],
+        "type": "LineString"
       }
     }
   ]
