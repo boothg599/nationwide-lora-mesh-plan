@@ -457,7 +457,7 @@
         "corridor_id": "C_MIDWEST_NORTH_SOUTH",
         "corridor_name": "Midwest north–south (regional continuity)",
         "corridor_class": "NORTH_SOUTH",
-        "priority": 3,
+        "priority": 2,
         "tierA_target_sites_min": 6,
         "tierA_target_sites_max": 10,
         "notes": "Regional continuity."
@@ -498,7 +498,7 @@
         "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
         "corridor_name": "Mississippi north–south (regional continuity)",
         "corridor_class": "NORTH_SOUTH",
-        "priority": 3,
+        "priority": 2,
         "tierA_target_sites_min": 6,
         "tierA_target_sites_max": 10,
         "notes": "Regional continuity."
