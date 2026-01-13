@@ -51119,6 +51119,3006 @@
         "zone_id": "Z_CENTRAL_LOW_RELIEF"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.80771072917744,
+          33.48099642097104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000755",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0001",
+        "site_name": "Tier A C_I5_PROXY #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.53110874789375,
+          34.38008041987006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000819",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0002",
+        "site_name": "Tier A C_I5_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.3005931607593,
+          35.26142325320335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000882",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0003",
+        "site_name": "Tier A C_I5_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.07007757362487,
+          36.14276608653664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000944",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0004",
+        "site_name": "Tier A C_I5_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.83956198649044,
+          37.024108919869924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001005",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0005",
+        "site_name": "Tier A C_I5_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.4575292340286,
+          37.95405233675855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001066",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0006",
+        "site_name": "Tier A C_I5_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.63401056771481,
+          39.025606593569506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001126",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0007",
+        "site_name": "Tier A C_I5_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.81049190140104,
+          40.09716085038047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001186",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0008",
+        "site_name": "Tier A C_I5_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.98697323508726,
+          41.168715107191424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001304",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0009",
+        "site_name": "Tier A C_I5_PROXY #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.16345456877349,
+          42.24026936400239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001361",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0010",
+        "site_name": "Tier A C_I5_PROXY #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3399359024597,
+          43.31182362081334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001418",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0011",
+        "site_name": "Tier A C_I5_PROXY #11",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.51641723614593,
+          44.383377877624305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001474",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0012",
+        "site_name": "Tier A C_I5_PROXY #12",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.69289856983215,
+          45.45493213443526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001529",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0013",
+        "site_name": "Tier A C_I5_PROXY #13",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.5523541265725,
+          46.527957984446445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001637",
+        "corridor_id": "C_I5_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0014",
+        "site_name": "Tier A C_I5_PROXY #14",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.63814670818132,
+          33.35784978420883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000758",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0015",
+        "site_name": "Tier A C_I15_PROXY #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.33640860609404,
+          35.04846025303287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000886",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0016",
+        "site_name": "Tier A C_I15_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.72109851011754,
+          36.65830365639354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000950",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0017",
+        "site_name": "Tier A C_I15_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.67326699885112,
+          38.1567420677785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001074",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0018",
+        "site_name": "Tier A C_I15_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.62543548758468,
+          39.65518047916346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001195",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0019",
+        "site_name": "Tier A C_I15_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.94329981766711,
+          41.21129609709561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001314",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0020",
+        "site_name": "Tier A C_I15_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.17631764262183,
+          42.91174886950958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001428",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0021",
+        "site_name": "Tier A C_I15_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.64235329253123,
+          46.31265441433752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001593",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0022",
+        "site_name": "Tier A C_I15_PROXY #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.8409717440526,
+          47.11232532552332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001644",
+        "corridor_id": "C_I15_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0023",
+        "site_name": "Tier A C_I15_PROXY #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.51772559710521,
+          34.53178595873357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000832",
+        "corridor_id": "C_I25_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0024",
+        "site_name": "Tier A C_I25_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.99802007371339,
+          37.16234799689011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001020",
+        "corridor_id": "C_I25_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0025",
+        "site_name": "Tier A C_I25_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.64851020253099,
+          38.47549184491506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001082",
+        "corridor_id": "C_I25_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0026",
+        "site_name": "Tier A C_I25_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.30773430183959,
+          39.790812074624064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001203",
+        "corridor_id": "C_I25_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0027",
+        "site_name": "Tier A C_I25_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.21528797400258,
+          42.347143964742706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001378",
+        "corridor_id": "C_I25_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0028",
+        "site_name": "Tier A C_I25_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.16626969722294,
+          43.499524508393996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001434",
+        "corridor_id": "C_I25_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0029",
+        "site_name": "Tier A C_I25_PROXY #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.98006090918085,
+          33.03058576417853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000694",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0030",
+        "site_name": "Tier A C_I10_PROXY #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.78229095707566,
+          33.32149303351332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000761",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0031",
+        "site_name": "Tier A C_I10_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.19128106341007,
+          32.41969324138656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000698",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0032",
+        "site_name": "Tier A C_I10_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.15709572035426,
+          32.06234933110239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000635",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0033",
+        "site_name": "Tier A C_I10_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.96156197642634,
+          31.952897783960903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000637",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0034",
+        "site_name": "Tier A C_I10_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.86804580437429,
+          31.48824558626791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000640",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0035",
+        "site_name": "Tier A C_I10_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.81121231035631,
+          30.895873125662504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000577",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0036",
+        "site_name": "Tier A C_I10_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.75437881633833,
+          30.303500665057097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000513",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0037",
+        "site_name": "Tier A C_I10_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.43129388973458,
+          29.779925165095534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000520",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0038",
+        "site_name": "Tier A C_I10_PROXY #11",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.28756089034363,
+          29.901466693683922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000523",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0039",
+        "site_name": "Tier A C_I10_PROXY #12",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.1470355886182,
+          30.038239976784862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000525",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0040",
+        "site_name": "Tier A C_I10_PROXY #13",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.96716075029929,
+          30.603820518089996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000596",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0041",
+        "site_name": "Tier A C_I10_PROXY #15",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.81075907679438,
+          30.446894226835123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000532",
+        "corridor_id": "C_I10_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0042",
+        "site_name": "Tier A C_I10_PROXY #16",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.67727898680054,
+          34.444869847280216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000822",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0043",
+        "site_name": "Tier A C_I40_PROXY #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.0992609214344,
+          34.92891006660655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000825",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0044",
+        "site_name": "Tier A C_I40_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.48355525002225,
+          35.1905960919273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000891",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0045",
+        "site_name": "Tier A C_I40_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.82007530750984,
+          35.170417317139844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000894",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0046",
+        "site_name": "Tier A C_I40_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.1552281725738,
+          35.21558784245438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000897",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0047",
+        "site_name": "Tier A C_I40_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.48939140540963,
+          35.30806098029703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000900",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0048",
+        "site_name": "Tier A C_I40_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.82355463824548,
+          35.40053411813968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000902",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0049",
+        "site_name": "Tier A C_I40_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.15785390933505,
+          35.46920085595248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000905",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0050",
+        "site_name": "Tier A C_I40_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.49319529837067,
+          35.355499208212706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000908",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0051",
+        "site_name": "Tier A C_I40_PROXY #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.82853668740628,
+          35.241797560472925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000911",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0052",
+        "site_name": "Tier A C_I40_PROXY #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.21114636393435,
+          35.40694708769927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000914",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0053",
+        "site_name": "Tier A C_I40_PROXY #11",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.6874478996387,
+          36.127390975392686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000980",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0054",
+        "site_name": "Tier A C_I40_PROXY #12",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.9991809808705,
+          35.99764681083595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000982",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0055",
+        "site_name": "Tier A C_I40_PROXY #13",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.31292984717301,
+          35.91404541361871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000985",
+        "corridor_id": "C_I40_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0056",
+        "site_name": "Tier A C_I40_PROXY #14",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.54788183359643,
+          38.992792265299826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001138",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0057",
+        "site_name": "Tier A C_I70_PROXY #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.84575246394309,
+          39.44996356206906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001201",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0058",
+        "site_name": "Tier A C_I70_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.13473336999436,
+          39.64859418787857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001204",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0059",
+        "site_name": "Tier A C_I70_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.40437688769576,
+          39.28483376617351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001147",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0060",
+        "site_name": "Tier A C_I70_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.67402040539716,
+          38.921073344468454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001149",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0061",
+        "site_name": "Tier A C_I70_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.94365250910944,
+          38.69232456039165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001152",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0062",
+        "site_name": "Tier A C_I70_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.21327733286779,
+          38.549687519670236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001155",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0063",
+        "site_name": "Tier A C_I70_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.48290215662615,
+          38.40705047894882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001098",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0064",
+        "site_name": "Tier A C_I70_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7525269803845,
+          38.26441343822741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001101",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0065",
+        "site_name": "Tier A C_I70_PROXY #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.02215180414285,
+          38.121776397506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001103",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0066",
+        "site_name": "Tier A C_I70_PROXY #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.37781175697724,
+          38.210552403275734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001106",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0067",
+        "site_name": "Tier A C_I70_PROXY #11",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.18086010616005,
+          39.50269165003376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001228",
+        "corridor_id": "C_I70_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0068",
+        "site_name": "Tier A C_I70_PROXY #12",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.11247402755411,
+          39.471321436080714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001189",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0069",
+        "site_name": "Tier A C_I80_PROXY #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.85415450283946,
+          40.90434171388382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001256",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0070",
+        "site_name": "Tier A C_I80_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.05291752058778,
+          40.97490633552279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001259",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0071",
+        "site_name": "Tier A C_I80_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_WEST_HIGH_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.2516805383361,
+          41.045470957161754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001263",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0072",
+        "site_name": "Tier A C_I80_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.45044355608441,
+          41.11603557880073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001267",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0073",
+        "site_name": "Tier A C_I80_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.64920657383274,
+          41.1866002004397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001329",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0074",
+        "site_name": "Tier A C_I80_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.8695873570903,
+          41.5847475498289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001332",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0075",
+        "site_name": "Tier A C_I80_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.40676944708068,
+          40.73136927026433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001278",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0076",
+        "site_name": "Tier A C_I80_PROXY #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.6800893865662,
+          40.71033930947508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001282",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0077",
+        "site_name": "Tier A C_I80_PROXY #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.90237261095749,
+          40.86787899236249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001285",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0078",
+        "site_name": "Tier A C_I80_PROXY #11",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.1188534860047,
+          40.76467516920541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001289",
+        "corridor_id": "C_I80_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0079",
+        "site_name": "Tier A C_I80_PROXY #12",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.17466617600039,
+          28.23870826646069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000400",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0080",
+        "site_name": "Tier A C_I95_PROXY #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.57123650640385,
+          29.4455402220837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000468",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0081",
+        "site_name": "Tier A C_I95_PROXY #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.79772648788312,
+          30.655446797268088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000601",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0082",
+        "site_name": "Tier A C_I95_PROXY #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.44748316374202,
+          31.87577924183937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000666",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0083",
+        "site_name": "Tier A C_I95_PROXY #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.40631726628901,
+          32.675794881807334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000732",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0084",
+        "site_name": "Tier A C_I95_PROXY #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.56432150933705,
+          33.66960538497984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000797",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0085",
+        "site_name": "Tier A C_I95_PROXY #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.89497904747412,
+          34.79806422194432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000862",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0086",
+        "site_name": "Tier A C_I95_PROXY #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.74127799713271,
+          37.124327916508975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001050",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0087",
+        "site_name": "Tier A C_I95_PROXY #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.24195688289602,
+          38.31652368180826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001111",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0088",
+        "site_name": "Tier A C_I95_PROXY #11",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.35183798632428,
+          39.30221061545053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001172",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0089",
+        "site_name": "Tier A C_I95_PROXY #12",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.08436930150762,
+          40.09196444554264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001233",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0090",
+        "site_name": "Tier A C_I95_PROXY #13",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.83329377775291,
+          40.91306539942074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001293",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0091",
+        "site_name": "Tier A C_I95_PROXY #14",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.52720882887672,
+          41.69758275778224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001353",
+        "corridor_id": "C_I95_PROXY",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0092",
+        "site_name": "Tier A C_I95_PROXY #15",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.68547433233121,
+          42.48454615673616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001394",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0093",
+        "site_name": "Tier A C_GREAT_LAKES_RING #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.1706258349688,
+          41.4958461424607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001339",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0094",
+        "site_name": "Tier A C_GREAT_LAKES_RING #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.82260731177027,
+          41.37707779703514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001342",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0095",
+        "site_name": "Tier A C_GREAT_LAKES_RING #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.56680079669833,
+          43.057630289120645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001462",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0096",
+        "site_name": "Tier A C_GREAT_LAKES_RING #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.47124268418126,
+          43.175159177223804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001460",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0097",
+        "site_name": "Tier A C_GREAT_LAKES_RING #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.90380106650466,
+          43.00122064053998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001457",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0098",
+        "site_name": "Tier A C_GREAT_LAKES_RING #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.20652977031214,
+          43.87768557345877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001510",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0099",
+        "site_name": "Tier A C_GREAT_LAKES_RING #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.94674928064943,
+          46.23649267582506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001618",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0100",
+        "site_name": "Tier A C_GREAT_LAKES_RING #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.57996282786041,
+          46.441720096076885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001668",
+        "corridor_id": "C_GREAT_LAKES_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0101",
+        "site_name": "Tier A C_GREAT_LAKES_RING #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.47579639126484,
+          28.980638752466238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000451",
+        "corridor_id": "C_GULF_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0102",
+        "site_name": "Tier A C_GULF_RING #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.55234109951915,
+          30.188558547170658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000521",
+        "corridor_id": "C_GULF_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0103",
+        "site_name": "Tier A C_GULF_RING #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.88827942254169,
+          29.96687188530267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000523",
+        "corridor_id": "C_GULF_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0104",
+        "site_name": "Tier A C_GULF_RING #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.30528009054986,
+          30.15790916036633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000525",
+        "corridor_id": "C_GULF_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0105",
+        "site_name": "Tier A C_GULF_RING #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.7606255515234,
+          30.745581196357154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000593",
+        "corridor_id": "C_GULF_RING",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0106",
+        "site_name": "Tier A C_GULF_RING #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.12462272456769,
+          30.779263190573797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000595",
+        "corridor_id": "C_GULF_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0107",
+        "site_name": "Tier A C_GULF_RING #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.78699233398274,
+          30.296367673451513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000532",
+        "corridor_id": "C_GULF_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0108",
+        "site_name": "Tier A C_GULF_RING #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.64763849118967,
+          29.53604455896022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000467",
+        "corridor_id": "C_GULF_RING",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0109",
+        "site_name": "Tier A C_GULF_RING #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.39269424247242,
+          31.363823972932266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000583",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0110",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.81504302044107,
+          33.12860742476716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000714",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0111",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #03",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.25041922541116,
+          36.92929350089032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001030",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0112",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.46810732789622,
+          38.82963653895189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001151",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0113",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.52038951161774,
+          40.59291793559931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001271",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0114",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.98707816015164,
+          42.12701829148581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001386",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0115",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #08",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.88056763939633,
+          43.43347344622429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001441",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0116",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.06475790472805,
+          45.06346301250251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001550",
+        "corridor_id": "C_MIDWEST_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0117",
+        "site_name": "Tier A C_MIDWEST_NORTH_SOUTH #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.52435129939308,
+          31.6479421895337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000655",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0118",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #01",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.96190310556254,
+          32.96274309337297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000721",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0119",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #02",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.80871300179064,
+          35.5951732319446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_000913",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0120",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #04",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.12760494934857,
+          36.86889621834386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001038",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0121",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #05",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.01711629129449,
+          37.968044977743084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001100",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0122",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #06",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.9066276332404,
+          39.067193737142304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001161",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0123",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #07",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.91253100273856,
+          41.34187230119472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001340",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0124",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #09",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.65348302375868,
+          42.727664804047244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "access_class": "MODERATE",
+        "cell_id": "H_001398",
+        "corridor_id": "C_MISSISSiPPI_NORTH_SOUTH",
+        "notes": "ALT",
+        "power_class": "UNKNOWN",
+        "risk_lightning": "UNKNOWN",
+        "site_class": "OTHER",
+        "site_id": "S_A_0125",
+        "site_name": "Tier A C_MISSISSiPPI_NORTH_SOUTH #10",
+        "status": "CANDIDATE",
+        "tier": "A",
+        "zone_id": "Z_EAST_RIDGE_METRO"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
