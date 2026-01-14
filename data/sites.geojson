@@ -1458,9 +1458,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0061",
         "site_name": "Tier B H_000400 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0080",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -2034,9 +2036,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0085",
         "site_name": "Tier B H_000451 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0102",
+        "satisfied_corridor_id": "C_GULF_RING"
       },
       "type": "Feature"
     },
@@ -2466,9 +2470,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0103",
         "site_name": "Tier B H_000467 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0109",
+        "satisfied_corridor_id": "C_GULF_RING"
       },
       "type": "Feature"
     },
@@ -2514,9 +2520,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0105",
         "site_name": "Tier B H_000468 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0081",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -2850,9 +2858,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0119",
         "site_name": "Tier B H_000513 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0037",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -3186,9 +3196,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0133",
         "site_name": "Tier B H_000520 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0038",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -3234,9 +3246,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0135",
         "site_name": "Tier B H_000521 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0103",
+        "satisfied_corridor_id": "C_GULF_RING"
       },
       "type": "Feature"
     },
@@ -3330,9 +3344,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0139",
         "site_name": "Tier B H_000523 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0039",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -3426,9 +3442,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0143",
         "site_name": "Tier B H_000525 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0040",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -3762,9 +3780,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0157",
         "site_name": "Tier B H_000532 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0042",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -4434,9 +4454,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0185",
         "site_name": "Tier B H_000577 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0036",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -4722,9 +4744,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0197",
         "site_name": "Tier B H_000583 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0110",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -5202,9 +5226,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0217",
         "site_name": "Tier B H_000593 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0106",
+        "satisfied_corridor_id": "C_GULF_RING"
       },
       "type": "Feature"
     },
@@ -5298,9 +5324,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0221",
         "site_name": "Tier B H_000595 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0107",
+        "satisfied_corridor_id": "C_GULF_RING"
       },
       "type": "Feature"
     },
@@ -5346,9 +5374,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0223",
         "site_name": "Tier B H_000596 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0041",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -5586,9 +5616,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0233",
         "site_name": "Tier B H_000601 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0082",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -5874,9 +5906,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0245",
         "site_name": "Tier B H_000635 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0033",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -5970,9 +6004,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0249",
         "site_name": "Tier B H_000637 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0034",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -6114,9 +6150,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0255",
         "site_name": "Tier B H_000640 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0035",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -6834,9 +6872,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0285",
         "site_name": "Tier B H_000655 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0118",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -7362,9 +7402,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0307",
         "site_name": "Tier B H_000666 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0083",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -7602,9 +7644,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0317",
         "site_name": "Tier B H_000694 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0030",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -7794,9 +7838,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0325",
         "site_name": "Tier B H_000698 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0032",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -8562,9 +8608,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0357",
         "site_name": "Tier B H_000714 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0111",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -8898,9 +8946,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0371",
         "site_name": "Tier B H_000721 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0119",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -9426,9 +9476,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0393",
         "site_name": "Tier B H_000732 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0084",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -9570,9 +9622,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0399",
         "site_name": "Tier B H_000755 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0001",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -9714,9 +9768,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0405",
         "site_name": "Tier B H_000758 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0015",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -9858,9 +9914,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0411",
         "site_name": "Tier B H_000761 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0031",
+        "satisfied_corridor_id": "C_I10_PROXY"
       },
       "type": "Feature"
     },
@@ -11586,9 +11644,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0483",
         "site_name": "Tier B H_000797 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0085",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -11778,9 +11838,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0491",
         "site_name": "Tier B H_000819 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0002",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -11922,9 +11984,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0497",
         "site_name": "Tier B H_000822 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0043",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -12066,9 +12130,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0503",
         "site_name": "Tier B H_000825 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0044",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -12402,9 +12468,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0517",
         "site_name": "Tier B H_000832 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0024",
+        "satisfied_corridor_id": "C_I25_PROXY"
       },
       "type": "Feature"
     },
@@ -13842,9 +13910,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0577",
         "site_name": "Tier B H_000862 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0086",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -14082,9 +14152,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0587",
         "site_name": "Tier B H_000882 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0003",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -14274,9 +14346,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0595",
         "site_name": "Tier B H_000886 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0016",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -14514,9 +14588,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0605",
         "site_name": "Tier B H_000891 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0045",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -14658,9 +14734,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0611",
         "site_name": "Tier B H_000894 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0046",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -14802,9 +14880,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0617",
         "site_name": "Tier B H_000897 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0047",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -14946,9 +15026,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0623",
         "site_name": "Tier B H_000900 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0048",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -15042,9 +15124,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0627",
         "site_name": "Tier B H_000902 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0049",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -15186,9 +15270,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0633",
         "site_name": "Tier B H_000905 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0050",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -15330,9 +15416,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0639",
         "site_name": "Tier B H_000908 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0051",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -15474,9 +15562,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0645",
         "site_name": "Tier B H_000911 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0052",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -15570,9 +15660,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0649",
         "site_name": "Tier B H_000913 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0120",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -15618,9 +15710,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0651",
         "site_name": "Tier B H_000914 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0053",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -16338,9 +16432,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0681",
         "site_name": "Tier B H_000944 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0004",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -16626,9 +16722,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0693",
         "site_name": "Tier B H_000950 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0017",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -18066,9 +18164,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0753",
         "site_name": "Tier B H_000980 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0054",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -18162,9 +18262,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0757",
         "site_name": "Tier B H_000982 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0055",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -18306,9 +18408,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0763",
         "site_name": "Tier B H_000985 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0056",
+        "satisfied_corridor_id": "C_I40_PROXY"
       },
       "type": "Feature"
     },
@@ -18690,9 +18794,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0779",
         "site_name": "Tier B H_001005 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0005",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -19410,9 +19516,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0809",
         "site_name": "Tier B H_001020 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0025",
+        "satisfied_corridor_id": "C_I25_PROXY"
       },
       "type": "Feature"
     },
@@ -19890,9 +19998,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0829",
         "site_name": "Tier B H_001030 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0112",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -20274,9 +20384,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0845",
         "site_name": "Tier B H_001038 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0121",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -20850,9 +20962,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0869",
         "site_name": "Tier B H_001050 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0087",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -21090,9 +21204,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0879",
         "site_name": "Tier B H_001066 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0006",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -21474,9 +21590,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0895",
         "site_name": "Tier B H_001074 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0018",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -21858,9 +21976,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0911",
         "site_name": "Tier B H_001082 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0026",
+        "satisfied_corridor_id": "C_I25_PROXY"
       },
       "type": "Feature"
     },
@@ -22626,9 +22746,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0943",
         "site_name": "Tier B H_001098 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0064",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -22722,9 +22844,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0947",
         "site_name": "Tier B H_001100 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0122",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -22770,9 +22894,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0949",
         "site_name": "Tier B H_001101 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0065",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -22866,9 +22992,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0953",
         "site_name": "Tier B H_001103 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0066",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -23010,9 +23138,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0959",
         "site_name": "Tier B H_001106 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0067",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -23250,9 +23380,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0969",
         "site_name": "Tier B H_001111 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0088",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -23490,9 +23622,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_0979",
         "site_name": "Tier B H_001126 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0007",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -24066,9 +24200,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1003",
         "site_name": "Tier B H_001138 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0057",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -24498,9 +24634,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1021",
         "site_name": "Tier B H_001147 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0060",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -24594,9 +24732,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1025",
         "site_name": "Tier B H_001149 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0061",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -24690,9 +24830,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1029",
         "site_name": "Tier B H_001151 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0113",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -24738,9 +24880,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1031",
         "site_name": "Tier B H_001152 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0062",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -24882,9 +25026,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1037",
         "site_name": "Tier B H_001155 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0063",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -25170,9 +25316,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1049",
         "site_name": "Tier B H_001161 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0123",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -25698,9 +25846,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1071",
         "site_name": "Tier B H_001172 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0089",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -25938,9 +26088,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1081",
         "site_name": "Tier B H_001186 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0008",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -26082,9 +26234,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1087",
         "site_name": "Tier B H_001189 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0069",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -26370,9 +26524,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1099",
         "site_name": "Tier B H_001195 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0019",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -26658,9 +26814,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1111",
         "site_name": "Tier B H_001201 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0058",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -26754,9 +26912,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1115",
         "site_name": "Tier B H_001203 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0027",
+        "satisfied_corridor_id": "C_I25_PROXY"
       },
       "type": "Feature"
     },
@@ -26802,9 +26962,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1117",
         "site_name": "Tier B H_001204 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0059",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -27954,9 +28116,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1165",
         "site_name": "Tier B H_001228 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0068",
+        "satisfied_corridor_id": "C_I70_PROXY"
       },
       "type": "Feature"
     },
@@ -28194,9 +28358,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1175",
         "site_name": "Tier B H_001233 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0090",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -28914,9 +29080,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1205",
         "site_name": "Tier B H_001256 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0070",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -29058,9 +29226,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1211",
         "site_name": "Tier B H_001259 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0071",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -29250,9 +29420,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1219",
         "site_name": "Tier B H_001263 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0072",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -29442,9 +29614,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1227",
         "site_name": "Tier B H_001267 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0073",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -29634,9 +29808,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1235",
         "site_name": "Tier B H_001271 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0114",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -29970,9 +30146,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1249",
         "site_name": "Tier B H_001278 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0076",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -30162,9 +30340,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1257",
         "site_name": "Tier B H_001282 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0077",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -30306,9 +30486,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1263",
         "site_name": "Tier B H_001285 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0078",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -30498,9 +30680,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1271",
         "site_name": "Tier B H_001289 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0079",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -30690,9 +30874,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1279",
         "site_name": "Tier B H_001293 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0091",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -30930,9 +31116,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1289",
         "site_name": "Tier B H_001304 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0009",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -31410,9 +31598,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1309",
         "site_name": "Tier B H_001314 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0020",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -32130,9 +32320,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1339",
         "site_name": "Tier B H_001329 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0074",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -32274,9 +32466,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1345",
         "site_name": "Tier B H_001332 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0075",
+        "satisfied_corridor_id": "C_I80_PROXY"
       },
       "type": "Feature"
     },
@@ -32610,9 +32804,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1359",
         "site_name": "Tier B H_001339 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0094",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -32658,9 +32854,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1361",
         "site_name": "Tier B H_001340 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0124",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -32754,9 +32952,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1365",
         "site_name": "Tier B H_001342 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0095",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -33282,9 +33482,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1387",
         "site_name": "Tier B H_001353 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0092",
+        "satisfied_corridor_id": "C_I95_PROXY"
       },
       "type": "Feature"
     },
@@ -33426,9 +33628,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1393",
         "site_name": "Tier B H_001361 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0010",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -34242,9 +34446,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1427",
         "site_name": "Tier B H_001378 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0028",
+        "satisfied_corridor_id": "C_I25_PROXY"
       },
       "type": "Feature"
     },
@@ -34626,9 +34832,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1443",
         "site_name": "Tier B H_001386 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0115",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -35010,9 +35218,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1459",
         "site_name": "Tier B H_001394 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0093",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -35202,9 +35412,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1467",
         "site_name": "Tier B H_001398 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0125",
+        "satisfied_corridor_id": "C_MISSISSiPPI_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -35970,9 +36182,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1499",
         "site_name": "Tier B H_001418 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0011",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -36450,9 +36664,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1519",
         "site_name": "Tier B H_001428 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0021",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -36738,9 +36954,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1531",
         "site_name": "Tier B H_001434 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0029",
+        "satisfied_corridor_id": "C_I25_PROXY"
       },
       "type": "Feature"
     },
@@ -37074,9 +37292,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1545",
         "site_name": "Tier B H_001441 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0116",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -37842,9 +38062,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1577",
         "site_name": "Tier B H_001457 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0098",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -37986,9 +38208,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1583",
         "site_name": "Tier B H_001460 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0097",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -38082,9 +38306,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1587",
         "site_name": "Tier B H_001462 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0096",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -38514,9 +38740,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1605",
         "site_name": "Tier B H_001474 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0012",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -40242,9 +40470,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1677",
         "site_name": "Tier B H_001510 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0099",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -41010,9 +41240,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1709",
         "site_name": "Tier B H_001529 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0013",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -42018,9 +42250,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1751",
         "site_name": "Tier B H_001550 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0117",
+        "satisfied_corridor_id": "C_MIDWEST_NORTH_SOUTH"
       },
       "type": "Feature"
     },
@@ -43842,9 +44076,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1827",
         "site_name": "Tier B H_001593 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0022",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -45042,9 +45278,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1877",
         "site_name": "Tier B H_001618 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_EAST_RIDGE_METRO"
+        "zone_id": "Z_EAST_RIDGE_METRO",
+        "satisfied_by": "S_A_0100",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
@@ -45474,9 +45712,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1895",
         "site_name": "Tier B H_001637 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0014",
+        "satisfied_corridor_id": "C_I5_PROXY"
       },
       "type": "Feature"
     },
@@ -45810,9 +46050,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1909",
         "site_name": "Tier B H_001644 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_WEST_HIGH_RELIEF"
+        "zone_id": "Z_WEST_HIGH_RELIEF",
+        "satisfied_by": "S_A_0023",
+        "satisfied_corridor_id": "C_I15_PROXY"
       },
       "type": "Feature"
     },
@@ -46962,9 +47204,11 @@
         "site_class": "OTHER",
         "site_id": "S_B_1957",
         "site_name": "Tier B H_001668 #01",
-        "status": "CANDIDATE",
+        "status": "SATISFIED",
         "tier": "B",
-        "zone_id": "Z_CENTRAL_LOW_RELIEF"
+        "zone_id": "Z_CENTRAL_LOW_RELIEF",
+        "satisfied_by": "S_A_0101",
+        "satisfied_corridor_id": "C_GREAT_LAKES_RING"
       },
       "type": "Feature"
     },
